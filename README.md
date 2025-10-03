@@ -18,4 +18,4 @@
 </div>
 
 ## Visualizar Projeto
-Você pode visualizar o projeto através deste link: [Visualizar Projeto](https://caxty.github.io/Dark_Light_Mode/)
+Você pode visualizar o projeto através deste link: [Visualizar Projeto](https://caxty.github.io/Projeto_Social/)
